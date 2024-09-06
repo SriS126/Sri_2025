@@ -1,11 +1,9 @@
 ---
-layout: base
-title: Chill with Sri
+layout: page
+title: Chill with Sri 🌴
 description: A home page where you can do fun Sri stuff
 hide: true
 ---
-
-# Chill with Sri Surapaneni 🌴
 
 Whats up! **Chill with Me** — you can play a few games I made, you can take a trivia quiz about me, or just look around my socials. visit my github too!
 
