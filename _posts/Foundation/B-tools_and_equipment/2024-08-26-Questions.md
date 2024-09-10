@@ -14,7 +14,7 @@ menu: nav/tools_setup.html
 - Basic Linux Commands
 
 ### Hacks GitHub Pages Playground/SASS
-[Blog!]()
+[Blog!](https://sris126.github.io/Sri_2025/devops/tools/setup)
 - Includes the SASS changes and hacks, experimentation also
 - Changed layout of blog from base to page
 - Showcases index.md changes
