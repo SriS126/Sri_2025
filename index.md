@@ -8,7 +8,7 @@ comments: true
 
 Whats up! **Chill with Me and VSCode and Github** — you can play a few games I made, you can take a trivia quiz about me, or just look around my socials. visit my github too!
 
-I am Sri, the GOAT. Some videogames I like:
+I am Sri, the GOAT. Some videogames I like: 
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img width="237" alt="Screenshot 2024-09-06 at 9 04 40 AM" src="https://github.com/user-attachments/assets/bb21b7e8-cb73-4f13-815c-c25e6fd08cfa">
