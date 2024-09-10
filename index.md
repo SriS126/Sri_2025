@@ -16,7 +16,8 @@ I am Sri, the GOAT. Some videogames I like:
   <img width="293" alt="Screenshot 2024-09-06 at 9 09 38 AM" src="https://github.com/user-attachments/assets/7d003a98-a1cb-450b-a34e-00aa472e43d7">
 </div>
 
-## Make sure to comment down below your favorite videogame!!!
+## Make sure to [comment]() down below your favorite videogame!!!
+
 
 
 ------------------------------------------------------------------------------------------------
