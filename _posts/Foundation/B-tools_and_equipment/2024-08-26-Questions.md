@@ -20,7 +20,7 @@ menu: nav/tools_setup.html
 - Showcases index.md changes
 
 ### Frontend Development
-[Blog!](https://sris126.github.io/Sri_2025/devops/tools/setup)
+[Blog!](https://sris126.github.io/Sri_2025/2024/08/27/FrontendDev.html)
 - Did the Crumblecookie layout
 - Pretty simple, didn't go in really too far
 
