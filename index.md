@@ -3,18 +3,23 @@ layout: page
 title: Chill with Sri 🌴
 description: A home page where you can do fun Sri stuff
 hide: true
+comments: true
 ---
 
 Whats up! **Chill with Me and VSCode and Github** — you can play a few games I made, you can take a trivia quiz about me, or just look around my socials. visit my github too!
 
 I am Sri, the GOAT. Some videogames I like:
 
-<img width="237" alt="Screenshot 2024-09-06 at 9 04 40 AM" src="https://github.com/user-attachments/assets/bb21b7e8-cb73-4f13-815c-c25e6fd08cfa">
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img width="237" alt="Screenshot 2024-09-06 at 9 04 40 AM" src="https://github.com/user-attachments/assets/bb21b7e8-cb73-4f13-815c-c25e6fd08cfa">
+  <img width="217" alt="Screenshot 2024-09-06 at 9 05 07 AM" src="https://github.com/user-attachments/assets/d04a4705-62f5-400d-acc5-507ce44a9b22">
+  <img width="293" alt="Screenshot 2024-09-06 at 9 09 38 AM" src="https://github.com/user-attachments/assets/7d003a98-a1cb-450b-a34e-00aa472e43d7">
+</div>
 
-<img width="217" alt="Screenshot 2024-09-06 at 9 05 07 AM" src="https://github.com/user-attachments/assets/d04a4705-62f5-400d-acc5-507ce44a9b22">
+## Make sure to comment down below your favorite videogame!!!
 
 
-<img width="293" alt="Screenshot 2024-09-06 at 9 09 38 AM" src="https://github.com/user-attachments/assets/7d003a98-a1cb-450b-a34e-00aa472e43d7">
+------------------------------------------------------------------------------------------------
 
 My Flag: 
 
