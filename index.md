@@ -16,27 +16,57 @@ I am Sri, the GOAT. Some videogames I like:
   <img width="293" alt="Screenshot 2024-09-06 at 9 09 38 AM" src="https://github.com/user-attachments/assets/7d003a98-a1cb-450b-a34e-00aa472e43d7">
 </div>
 
-## Make sure to [comment]() down below your favorite videogame!!!
+## Make sure to [comment](https://sris126.github.io/Sri_2025/devops/tools/home) down below your favorite videogame!!!
 
 
 
 ------------------------------------------------------------------------------------------------
 
-My Flag: 
+Personal Stuff: 
 
-<img width="251" alt="Screenshot 2024-09-06 at 9 07 19 AM" src="https://github.com/user-attachments/assets/67523441-fb70-4d84-8e68-86d34c48dcfe">
-
-
----
+<div style="display: flex; gap: 20px; justify-content: center;">
+  <div>
+    <img width="237" alt="Screenshot 2024-09-06 at 9 07 19 AM" src="https://github.com/user-attachments/assets/67523441-fb70-4d84-8e68-86d34c48dcfe">
+    <ul>
+      <li>I am from Guntur/Hyderbad in India</li>
+      <li>Went to India summer before 9th</li>
+      <li>I was born here at palomar hospital</li>
+    </ul>
+  </div>
+  <div>
+    <img width="217" alt="Screenshot 2024-09-09 at 7 45 40 PM" src="https://github.com/user-attachments/assets/6b5b5d9d-9a3d-4a6a-9880-bfcb71e85591">
+    <ul>
+      <li>I went to Monterey Ridge elementary school</li>
+      <li>I went to OVMS Middle School</li>
+      <li>Im in DNHS, and want to go to a UC</li>
+    </ul>
+  </div>
+  <div>
+    <img width="293" alt="Screenshot 2024-09-09 at 7 48 00 PM" src="https://github.com/user-attachments/assets/8545faed-bbaf-4444-93fc-01ab0a21ce7a">
+    <ul>
+      <li>I like travelling a lot</li>
+      <li>I go to Coronado Island a lot </li>
+      <li>I like the sea lol</li>
+    </ul>
+  </div>
+</div>
+------------------------------------------------------------------------------------------------
 
 ## 🎮 Games
 
-These are some very simple games I made or pasted from last year. 
+These are some very simple games I made or pasted from last year, snake and rectangle game. Click on them!
 
-- **[Snake](https://sris126.github.io/student//2023/08/30/SnakeWeek2.html)**: the classic snake game made by outside sources, i experimented with it last year to understand how it would work
-- **[Dodging Game](https://sris126.github.io/student//2023/08/31/RectangleGame.html)**: This is a dodging game me and my partner last year made which involves event listeners and boundaries. Chat GPT helped us a lot with this game
+<div style="display: flex; gap: 20px;">
+  <a href="https://sris126.github.io/student//2023/08/30/SnakeWeek2.html">
+    <img src="https://github.com/user-attachments/assets/070c243f-b90e-4f04-99f5-1f23f13ce820" alt="Snake Game" style="width: 300px; height: 300px; object-fit: cover;">
+  </a>
 
----
+  <a href="https://sris126.github.io/student//2023/08/31/RectangleGame.html">
+    <img src="https://github.com/user-attachments/assets/308d920c-a0c5-461a-aca1-2fb48189c930" alt="Dodging Game" style="width: 300px; height: auto; object-fit: cover;">
+  </a>
+</div>
+
+------------------------------------------------------------------------------------------------
 
 ## 🌟 Trivia Quiz about Me
 
@@ -103,6 +133,13 @@ displayQuiz();
 
 ---
 
+## Check out my playlist!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5mW0jgyburuwiKlgIbGrEN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+------------------------------------------------------------------------------------------------
+
+
 ## 📢 Socials
 
 Here are some of my socials that you can follow me on or look at. I used github a lot last year for CSP and I am frequently on social media a alot (very bad). 
@@ -112,12 +149,6 @@ Here are some of my socials that you can follow me on or look at. I used github 
 - **[Robotics Team](https://linktr.ee/ftcruntimeterror)**: I'm a business lead in Runtime Terror 22105. We are in FTC (First Tech Challenge) and I often help organize events. This includes teaching kids about STEM and letting them use makey-makey kits.
 
 Make sure to check out my about me!
-
----
-
-## Check out my playlist!
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5mW0jgyburuwiKlgIbGrEN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
