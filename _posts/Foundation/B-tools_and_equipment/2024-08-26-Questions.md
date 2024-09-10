@@ -20,3 +20,8 @@ menu: nav/tools_setup.html
 - Showcases index.md changes
 
 ### Frontend Development
+[Blog!]()
+
+
+### Pair Showcase
+[Blog!](https://sgtech08.github.io/student//5.a/c4.1/2023/09/05/movie-searchapi.html)
