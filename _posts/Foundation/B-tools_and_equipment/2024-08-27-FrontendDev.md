@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frontend Dev
+title: Frontend Develop
 description: Some simple frontend dev i did for the crumblecookie website idea
 
 ---
