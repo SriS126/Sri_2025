@@ -25,7 +25,10 @@ menu: nav/tools_setup.html
 - Pretty simple, didn't go in really too far
 
 ### Jupyter Stuff
-[Blog!](https://sris126.github.io/Sri_2025/2024/09/08/23-playing-jupyer-notebooks_IPYNB_2_.html)
+[Wikipedia Weapon Search](https://sris126.github.io/Sri_2025/2024/09/08/23-playing-jupyer-notebooks_IPYNB_2_.html)
+
+
+
 - Wikipedia weapon search and stuff
 
 
