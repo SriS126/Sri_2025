@@ -1,38 +1,23 @@
 ---
 layout: post
 title: Unit 6
-description: my homework period 3
+description: my homework period 1
 toc: True
 comments: True
 ---
 # Here is my Unit 6 Arrays Homework. thanks for the good lesson! tarun was great at teaching, srijan was great at presenting, ian was great at instructing, and jonathan was great at informing
 
-## 3.1
+## 6.1
 [Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.1.html)
 
 
-## 3.2
+## 6.2
 [Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.2.html)
 
 
-## 3.3
+## 6.3 
 [lLink](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.3.html)
 
 
-## 3.4
-[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.4.html)
-
-## 3.5
-[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.1.html)
-
-
-## 3.6
-[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.2.html)
-
-
-## 3.7
-[lLink](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.3.html)
-
-
-## 3.4
+## 6.4 
 [Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.4.html)
