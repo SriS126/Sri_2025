@@ -5,33 +5,34 @@ description: my homework period 3
 toc: True
 comments: True
 ---
-# Here is my Unit 3 Booleans Homework. thanks for the good lesson! you guys were rly good at presenting and helping us. below are the popcorn hacks done for each section and the homework at the end. 
+# Here is my Unit 6 Arrays Homework. thanks for the good lesson! tarun was great at teaching, srijan was great at presenting, ian was great at instructing, and jonathan was great at informing
+
 ## 3.1
-[Link](
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.1.html)
 
 
 ## 3.2
-[Link](
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.2.html)
 
 
 ## 3.3
-[Link](
+[lLink](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.3.html)
 
 
 ## 3.4
-[Link](
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.4.html)
 
 ## 3.5
-[Link](
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.1.html)
 
 
 ## 3.6
-[Link]()
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.2.html)
 
 
 ## 3.7
-[lLink](
+[lLink](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.3.html)
 
 
-## Actual HW
-[Link](
+## 3.4
+[Link](https://sris126.github.io/Sri_2025/2024/09/23/Unit6.4.html)
