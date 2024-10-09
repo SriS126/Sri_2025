@@ -1,4 +1,4 @@
-# My HW For Each Unit Taught in Period 1
+# My HW For Each Unit Taught in Period 1 (1, 2, 9 are in progress)
 
 ## Unit 1
 [Link](in progress)
