@@ -1,402 +1,226 @@
----
-layout: post
-title: Team Teach Reflection Final
-description: Here are my tables!!!!
-type: issues
-comments: True
----
-
-## Sri Surapaneni, Period 1
-
-
-| **Assignment**             | **Points**    | **Grade** | **Evidence** |
-|----------------------------|---------------|-----------|--------------|
-| Pull Request (Integration) | 2             |     **1.1**     |      <img width="1028" alt="Screenshot 2024-10-09 at 10 22 10 AM" src="https://github.com/user-attachments/assets/3fc9aedb-cba0-4dac-8876-4d37f71b876d"> <img width="774" alt="Screenshot 2024-10-09 at 11 25 13 AM" src="https://github.com/user-attachments/assets/f7511fdc-26be-4114-8a07-b016cc9069ef"> (Didn't pull request day before unfortunately, but had pull requested a lot after, grade could be updated)     |
-| Relevancy Checklist (Peer) | 2             |    **1.71**      |  ![Screenshot 2024-10-09 at 4 30 13 PM](https://github.com/user-attachments/assets/02cfefdf-dde3-4f4c-b5b7-994d1e6487ff) [7.1](https://aidanlau10.github.io/sprint2/csa/unit7-p1/unit7-1) [7.2](https://aidanlau10.github.io/sprint2/csa/unit7-p1/unit7-2)  <- Comments are on bottom, average for 7.1 and 7.2 is 77     |
-| Lesson (Group)             | 1             |     **0.91**      |      (Mr. Mortensen said we got a .91 after our teach, didn't put in synergy yet)        |
-| Homework, Popcorn Hacks    | 1 x 8         |     **7.32**      |       [LinktoHWs](https://sris126.github.io/Sri_2025/2024/10/09/TeamTeachUltimateHWS.html)  ... 0.95 + 0.92 + 0.88 + 0.91 / 4 = 91.5   |
-| Individual Contribution    | 1             |      0.9     |      ![Screenshot 2024-10-09 at 5 29 52 PM](https://github.com/user-attachments/assets/3c543a82-ed52-4ef1-be9e-f41e40314b91) ![Screenshot 2024-10-09 at 5 34 15 PM](https://github.com/user-attachments/assets/dedf3eb6-590f-4573-8151-1dc0ce16e2ac)------------------------------------------------------------------------------------->   [7.1,](https://aidanlau10.github.io/sprint2/csa/unit7-p1/unit7-1) [ 7.2,](https://aidanlau10.github.io/sprint2/csa/unit7-p1/unit7-2) [Repo of Team Teach](https://github.com/AidanLau10/unit7_2025)  <- (Created entire 7.1 and half of 7.2, intro, aidan was scrum master so he did all pull requests while i committed on main)     |
-| Personal Notebooks / Blogs | 1             |      0.9     |      [Review Blog](https://sris126.github.io/Sri_2025/2024/10/09/TeamTeachBlogReview.html)        |
-| Total                      | 12            |      adds up to 12.84 (total should be out of 13 probably)     |              |
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-| **Skill**                  | **Points**    | **Grade** | **Evidence** |
-|----------------------------|---------------|-----------|--------------|
-| Work Habits (Analytics)    |   1           |     **0.9**      |       ![Screenshot 2024-10-09 at 5 53 30 PM](https://github.com/user-attachments/assets/63428567-2d9d-4a82-b1e2-3f697a4e424c)       |
-| Team Planning (Issue)      |   1           |      **0.89**     |      [Link](https://github.com/users/AidanLau10/projects/5?pane=issue&itemId=80308162&issue=AidanLau10%7Caidan_2025%7C6)       |
-| Presentation Memories      |   1           |     **0.88**      |      People laughed at our memes, we helped Sharon with a problem, Aidan had a good card sort demonstration, and I got to explain the venn diagram and let them compare/contrast        |
-| Grading and Feedback       |   1           |      **0.89**     |       [Link](https://docs.google.com/spreadsheets/d/1ow8tKRy5tm9o6iQf_n2O3QdD4ulACpYCFQDPQzBGp8c/edit?gid=1811614900#gid=1811614900)       |
-| Beyond Perfunctory         |   1           |      **0.88**    |       ![Screenshot 2024-10-09 at 6 01 59 PM](https://github.com/user-attachments/assets/b250622d-65a5-432d-b5bc-a701426f9716) ![Screenshot 2024-10-09 at 6 02 32 PM](https://github.com/user-attachments/assets/0baae743-bd98-4db5-bf28-3763e906c81e)       | 
-| Total                      |   5           |     **4.44**      |              |
-
-
-.
-.
-.
-.
-.
-.
-
-
-
-### Combined Review of Peer Graders
-
-| Assignment              | Weightage | Grade (Review 1) | Grade (Review 2) | Average Grade |
-|-------------------------|-----------|------------------|------------------|---------------|
-| College Board Coverage   | 20        | 18               | 17.5             | 17.75         |
-| Java Examples            | 30        | 28               | 27               | 27.5          |
-| Popcorn Hack Usage       | 10        | 8                | 8.5              | 8.25          |
-| Homework                 | 10        | 7                | 8                | 7.5           |
-| Grading Plan             | 10        | 8                | 9                | 8.5           |
-| Original and Creative    | 10        | 7                | 9                | 8             |
-| **Total**                | **90**    | **76**           | **79**           | **77.5**      |
-
-### Summary of Comments:
-- **College Board Coverage**: Both reviews indicate solid coverage of College Board content, though it could have gone more in-depth to exceed expectations.
-- **Java Examples**: Strong examples provided, clear and easy to understand. Reviewers noted that the examples were specific to each bullet point and very effective for teaching.
-- **Popcorn Hack Usage**: The hacks were well implemented, with both reviews appreciating their inclusion. However, reviewers felt that they could have been more complex or creative.
-- **Homework**: Covered the necessary topics, with one reviewer suggesting that it could have been more detailed for better engagement.
-- **Grading Plan**: Clear grading structure based on participation and completion of homework and popcorn hacks. It was fair and well communicated.
-- **Original and Creative**: While one review mentioned minimal creativity (a few images and a joke), the other praised the creative use of memes and organization, which helped maintain student focus.
-
 ##  Introduction
-
 - 9.1
-
 In Java, object-oriented programming allows developers to structure programs as a collection of classes and objects. One key concept in OOP is inheritance, where a class (subclass) inherits properties and methods from another class (superclass). This allows code to be reused and models relationships between objects.
-
 > Superclass:
 A superclass in Java is a general class that contains common fields and methods that can be shared by its subclasses. It is also sometimes referred to as a parent class.
-
 > Subclass:
 A subclass (or child class) is a class that extends the functionality of a superclass. A subclass inherits all the attributes and methods of the superclass and can also have its own additional properties and methods.
-
-
 You might be wondering why are subclasses and super classes useful? Well, let's take a look at an example.
-
 ## Shapes
-
-What if we wanted to solve the problem of managing different types of shapes, each with unique properties and behaviors, but still wanted to avoid repetitive code? Well, let's plan out a solution using inheritance.  By creating a general Shape class with shared attributes, and then extending it into specific subclasses like Rectangle and Triangle, we can reuse common logic while allowing each shape to override methods like calc_area() for their specific needs. This approach simplifies the design. 
-
-
+What if we wanted to solve the problem of managing different types of shapes, each with unique properties and behaviors, but still wanted to avoid repetitive code? Well, let's plan out a solution using inheritance.  By creating a general Shape class with shared attributes, and then extending it into specific subclasses like Rectangle and Triangle, we can reuse common logic while allowing each shape to override methods like calc_area() for their specific needs. This approach simplifies the design.
 ## How are we setting this up?
-
-Let's think about attributes that all shapes have. For simplicity, we can think of `name`, `length`, and `width` as attributes of a shape. 
-
+Let's think about attributes that all shapes have. For simplicity, we can think of `name`, `length`, and `width` as attributes of a shape.
 Let's start setting up our main class. Here, we have a default and parametrized constructor. People can create a default shape, or pass in values to characterize their own shape.
-
-We can also add additional methods to calculate area/print a shape. 
-
-
-
-
-
-
+We can also add additional methods to calculate area/print a shape.
 ```java
 public class Shape {
     protected String name;
     private int length;
     private int width;
-
     // Default constructor
     public Shape() {
         this.name = "Shape";
         this.length = 10;
         this.width = 5;
     }
-
     // Parameterized constructor
     public Shape(String name, int length, int width) {
         this.name = name;
         this.length = length;
         this.width = width;
     }
-
 }
-
-
-
 ```
-
 Let's add setters (to set variables) and getters (to get a shapes attributes like name, length, and width.)
-
-
 ```java
 public class Shape {
     protected String name;
     private int length;
     private int width;
-
     // Default constructor
     public Shape() {
         this.name = "Shape";
         this.length = 10;
         this.width = 5;
     }
-
     // Parameterized constructor
     public Shape(String name, int length, int width) {
         this.name = name;
         this.length = length;
         this.width = width;
     }
-
     // Getter methods
     public String get_name() {
         return this.name;
     }
-
     public int get_length() {
         return this.length;
     }
-
     public int get_width() {
         return this.width;
     }
-
     // Setter methods
     public void set_name(String n) {
         this.name = n;
     }
-
     public void set_length(int a) {
         this.length = a;
     }
-
     public void set_width(int b) {
         this.width = b;
     }
 }
 ```
-
 Now we can have two subclasses, Rectangle and Triangle.
-
 <img width="519" alt="Screenshot 2024-09-18 at 12 04 51 PM" src="https://github.com/user-attachments/assets/2e8eeed2-3f97-48be-9b5d-e52d2b07d355">
-
-
-
 ```java
 public class Rectangle extends Shape {
     public Rectangle() {
         super();
     }
-
     public Rectangle(String name, int length, int width) {
         super(name, length, width);
     }
-
-
 }
-
 public class Triangle extends Shape {
     public Triangle() {
         super();
     }
-
     public Triangle(String name, int length, int width) {
         super(name, length, width);
     }
-
-
 }
 ```
-
 You might notice the `super()` keyword being used a lot here. But what does it mean?
-
 This leads us to our next big idea.
-
-
 > 9.2 Constructors for Subclasses
-
-
-
 -  Writing a Constructor for Subclass:
 When a subclass is created, it inherits the fields and methods from its superclass. However, a subclass does not inherit constructors from the superclass. If a subclass needs to initialize its own fields in addition to the fields of the superclass, it must provide its own constructor and explicitly call the constructor of the superclass using super().
-
 - Understanding super():
 When writing a constructor for a subclass, you often need to call the constructor of the superclass to initialize the fields inherited from it. The super() call must be the first statement in the subclass constructor.
 If the superclass constructor requires arguments, those arguments must be passed in the super() call.
-
 Obviously, the  code blocks above are pretty basic and have  a lot to be improved. For example, what if we wanted to model more complex shapes, like a circle or a hexagon? How could we extend our current Shape class to do that?
-
 # Popcorn Hack
 Here’s a challenge for you: Implement two new subclasses, Circle and Hexagon, extending from the Shape class.  Follow the same structure as the Rectangle and Triangle classes!
-
 <img width="899" alt="Screenshot 2024-09-18 at 12 21 38 PM" src="https://github.com/user-attachments/assets/16926722-06a8-4489-a7c0-05dc921644c3">
-
-
-
-
 ```java
 /* Your code goes in here. Copy paste the code cell above  and your new implementations here */
 ```
-
 You might notice the `super()` keyword being used a lot. But what does it mean?
-
 This leads us to our next lesson.
-
-
 > 9.2 Constructors for Subclasses
-
-
-
 -  Writing a Constructor for Subclass:
 When a subclass is created, it inherits the fields and methods from its superclass. However, a subclass does not inherit constructors from the superclass. If a subclass needs to initialize its own fields in addition to the fields of the superclass, it must provide its own constructor and explicitly call the constructor of the superclass using super().
-
 - Understanding super():
 When writing a constructor for a subclass, you often need to call the constructor of the superclass to initialize the fields inherited from it. The super() call must be the first statement in the subclass constructor.
 If the superclass constructor requires arguments, those arguments must be passed in the super() call.
-
 # Popcorn Hack 2 Optional: Mastering super()
 What if we wanted to understand how to properly use the super() keyword in subclasses to ensure that our shapes are correctly initialized?
-
 Here’s a fun challenge:
-
 1. Create a new subclass called Ellipse that extends Shape.
-
 Constructor: Implement a constructor for Ellipse that accepts parameters for name, length, and width. This constructor should call the superclass constructor using super().
 2. Update Your Driver Code
-
 Test the Ellipse: Instantiate an Ellipse object and print its area. Verify that the constructor correctly initializes the shape and that the super() keyword is used properly.
 Hints:
-
 Ellipse Constructor: Use super(name, length, width) to initialize inherited fields.
 Check Order: Remember, super() must be the first statement in your subclass constructor.
-
 # Full Running Code Cell
-
-
 ```java
 public class Shape {
     protected String name;
     private int length;
     private int width;
-
     // Default constructor
     public Shape() {
         this.name = "Shape";
         this.length = 10;
         this.width = 5;
     }
-
     // Parameterized constructor
     public Shape(String name, int length, int width) {
         this.name = name;
         this.length = length;
         this.width = width;
     }
-
     // Getter methods
     public String get_name() {
         return this.name;
     }
-
     public int get_length() {
         return this.length;
     }
-
     public int get_width() {
         return this.width;
     }
-
     // Setter methods
     public void set_name(String n) {
         this.name = n;
     }
-
     public void set_length(int a) {
         this.length = a;
     }
-
     public void set_width(int b) {
         this.width = b;
     }
-
     // Method to calculate the area
     public double calc_area() {
         return this.length * this.width;
     }
-
     // Method to print the shape
     public void print_shape() {
         System.out.println("Shape: " + this.name);
     }
-
     // Additional method to print something
     public void print_something() {
         System.out.println("This is a shape");
     }
 }
-
 public class Rectangle extends Shape {
     public Rectangle() {
         super();
     }
-
     public Rectangle(String name, int length, int width) {
         super(name, length, width);
     }
-
     @Override
     public double calc_area() {
         return (this.get_length() * this.get_width());
     }
-
     @Override
     public void print_something() {
         System.out.println("This is a rectangle");
     }
 }
-
 public class Triangle extends Shape {
     public Triangle() {
         super();
     }
-
     public Triangle(String name, int length, int width) {
         super(name, length, width);
     }
-
     @Override
     public double calc_area() {
         return (get_length() * get_width() * 0.5);
     }
 }
-
 public class Driver {
     public static void main(String[] args) {
         Shape s1 = new Shape();
         Shape s2 = new Rectangle("rectangle", 4, 10);
         Shape s3 = new Triangle("triangle", 5, 20);
-
         System.out.println("Area of s1 = " + s1.calc_area());
         System.out.println("Area of s2 = " + s2.calc_area());
         System.out.println("Area of s3 = " + s3.calc_area());
-
         s1.print_shape();
         s2.print_shape();
-
         // Using the overridden method
         s1.print_something();
         s2.print_something();
     }
 }
-
 // Run the driver code
 Driver.main(new String[0]);
-
 ```
-
     Area of s1 = 50.0
     Area of s2 = 40.0
     Area of s3 = 50.0
@@ -404,4 +228,3 @@ Driver.main(new String[0]);
     Shape: rectangle
     This is a shape
     This is a rectangle
-
