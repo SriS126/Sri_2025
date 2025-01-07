@@ -18,7 +18,7 @@
 - solve complex boolean expressions
 - practice writing parameters
 - review recursion
-- spend atleast 30 min over the weekend reviewing team teaches/ team teach hws / maybe even collegeboard videos
+- spend atleast 30 min over the weekend reviewing team teaches / team teach hws / maybe even collegeboard videos
 
 # Question Revisions
 
@@ -58,7 +58,3 @@ i focused on the behavior of x at point c and didn't account for the changes to 
 #### 38
 ![image](https://github.com/user-attachments/assets/120b2608-99f8-43d5-b193-bcae032cd871)
 i misunderstood the logic, || and &&. the correct answer makes sure x and y are evaluated constantly, and my answer would always put it as true
-
-
-
-
